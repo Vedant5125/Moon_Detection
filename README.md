@@ -2,3 +2,4 @@ Yolo train script: yolo detect train model=yolov8n.pt data=Lunar_Craters/data.ya
 Yolo predict script: yolo detect predict model=runs/detect/train/weights/best.pt source=tiles
 Roboflow pretrained model: Lunar Crater Detection 2
 
+Current trained on epochs=10
